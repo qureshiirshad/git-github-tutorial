@@ -1,1 +1,5 @@
 My first file
+
+New line added
+
+New line 2 added
