@@ -1,6 +1,12 @@
 My first file
 
 These are the changes in first file which is created by irshadgithub
+
 Changes on Line 4 by qureshiirshad
 Changes on Line 5 by qureshiirshad
 Changes on Line 6 by qureshiirshad
+
+
+I am doing changes in test1.txt file. These are for testing from another account.
+Doing changes on line 6 from account irshadgithub
+ 
